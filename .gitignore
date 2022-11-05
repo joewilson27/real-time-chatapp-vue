@@ -1,0 +1,3 @@
+server/node_modules/
+socketio-vue/node_modules/
+.env
