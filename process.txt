@@ -2,3 +2,9 @@ https://deepinder.me/creating-a-real-time-chat-app-with-vue-socket-io-and-nodejs
 
 up until Event Handling
 
+Test emit from client and add event handling in server with name 'my message'
+
+A room in socket.io is a random channel that sockets can join and leave. It can be used to broadcast events to a subset of clients/users. But, the concept of rooms is ONLY AVAILABLE on the server (i.e. the client does not have access to the list of rooms it has joined).
+
+up until Appending the incoming message
+
